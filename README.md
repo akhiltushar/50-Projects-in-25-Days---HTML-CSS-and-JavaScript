@@ -2,11 +2,11 @@
 
 This is the main repository for all of the projects
 
-<!--|  #  | Project                                                                                                                     
+|  #  | Project                                                                                                                     
 | :-: | --------------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             |
-| 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               |
-| 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)        |
+| 01  | [Expanding Cards](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day01/ExpendingCards)                             |
+| 02  | [Progress Steps](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day01/ProgressSteps)                               |
+<!--| 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)        |
 | 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)     -->                   
 
 
