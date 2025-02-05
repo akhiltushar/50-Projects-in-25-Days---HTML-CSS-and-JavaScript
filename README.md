@@ -6,8 +6,8 @@ This is the main repository for all of the projects
 | :-: | --------------------------------------------------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day01/ExpendingCards)                             |
 | 02  | [Progress Steps](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day01/ProgressSteps)                               |
-<!--| 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)        |
-| 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)     -->                   
+| 03  | [Rotating Navigation Animation](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day02/RotatingNavAnimation)         |
+| 04  | [Hidden Search Widget](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day02/HiddenSearchWidget)                    |
 
 
 ## License
