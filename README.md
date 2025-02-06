@@ -8,6 +8,8 @@ This is the main repository for all of the projects
 | 02  | [Progress Steps](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day01/ProgressSteps)                               |
 | 03  | [Rotating Navigation Animation](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day02/RotatingNavAnimation)         |
 | 04  | [Hidden Search Widget](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day02/HiddenSearchWidget)                    |
+| 05  | [Blurry Loading](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day03/lurryLoading)                                |
+| 06  | [Scroll Animation](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day03/ScrollAnimation)                           |
 
 
 ## License
