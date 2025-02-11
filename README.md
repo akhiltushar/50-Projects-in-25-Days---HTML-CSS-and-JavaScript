@@ -13,7 +13,11 @@ This is the main repository for all of the projects
 | 07  | [Form Wave Animations](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day04/FormWaveAnimations)                    |                                                                                                                                                   |
 | 08  | [Split Landing Page](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day04/SplitLandingPage)                        |
 | 09  | [Dad Jokes](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day05/DadJokes)                                         |
-| 10  | [Sound Board](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day05/SoundBoard)                                     |                                                                                                                               |
+| 10  | [Sound Board](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day05/SoundBoard)                                     |
+| 11  | [Event Key Codes](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day06/EventKeyCodes)                              |
+| 12  | [Faq Collapse](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day06/FaqCollapse)                                   |
+| 13  | [Animated Navigation](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day07/AnimatedNavigation)                     |
+| 14  | [Random Choice Picker](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day07/RandomChoicepPicker)                   |                                                                                                                               |
 
 
 ## License
