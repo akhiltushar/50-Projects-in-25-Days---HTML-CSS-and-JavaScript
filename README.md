@@ -10,8 +10,10 @@ This is the main repository for all of the projects
 | 04  | [Hidden Search Widget](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day02/HiddenSearchWidget)                    |
 | 05  | [Blurry Loading](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day03/lurryLoading)                                |
 | 06  | [Scroll Animation](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day03/ScrollAnimation)                           |
-| 07  | [Form Wave Animations](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day04/FormWaveAnimations)                                                                                                                                                     |
-| 08  | [Split Landing Page](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day04/SplitLandingPage)                                                                                                                                                       |
+| 07  | [Form Wave Animations](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day04/FormWaveAnimations)                    |                                                                                                                                                   |
+| 08  | [Split Landing Page](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day04/SplitLandingPage)                        |
+| 09  | [Dad Jokes](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day05/DadJokes)                                         |
+| 10  | [Sound Board](https://github.com/akhiltushar/50-Projects-in-25-Days---HTML-CSS-and-JavaScript/tree/master/Day05/SoundBoard)                                     |                                                                                                                               |
 
 
 ## License
